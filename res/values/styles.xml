@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="bridge_details">
+		<item name="android:textSize">22sp</item>
+		<item name="android:textColor">#ee7620</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+   	<!--  this is the style for the container ListView, not the rows -->
+	<!--  the rows are defined in code, see ReviewAdapter.ReviewListView -->
+	<style name="bridge_list">
+		<item name="android:background">#000000</item>
+	</style>
+</resources>

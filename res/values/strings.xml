@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Canal Route</string>
+    <string name="view_preference">ViewPreference</string>
+    <string name="view_preference_default">@string/map_view_value</string>
+    <string name="view_list_text">View List</string>
+    <string name="view_map_text">View Map</string>
+    <string name="list_view_value">ch.android.intent.action.LIST</string>
+    <string name="map_view_value">ch.android.intent.action.MAP</string>
+    <string-array name="view_options">
+        <item >Map View</item>
+        <item >List View</item>
+    </string-array>
+    <string-array name="view_options_values">
+        <item >@string/map_view_value</item>
+        <item >@string/list_view_value</item>
+    </string-array>
+</resources>
